@@ -1,6 +1,23 @@
 Why is it important to organize data and code in a bioinformatic project?
 
 
+What is reproducibility?
+
+
+What are the differences in reproducibility in the following scenarios?
+
+- I can reproduce the results by re-running my code in my R studio right now
+- I can reproduce the results by running my code after rebooting my computer
+- I can reproduce the results by running my code on another computer
+- My colleague my reproduce on my code on the same server
+- Someone at another institution can reproduce my results using my code
+  after I answered questions to his email
+- Someone at another institution can reproduce my results using a modified
+  version of my code
+- Someone can reproduce my results using my code without modification
+  and without bugging me
+- An public server can reproduce my results
+
 
 What is the difference between relative and absolute file paths?
 
